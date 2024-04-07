@@ -30,7 +30,9 @@ For date and time operations.
 
 # Installation
 (1) Clone the repository:https://github.com/DivyaBinduMenda/Online-Attendance-System.git
+
 (2) Install the dependencies:pip install opencv-python tkinter pandas numpy pillow
+
 (3) Run the application:python main.py
 
 # Usage
