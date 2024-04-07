@@ -15,9 +15,31 @@ Provides password protection for sensitive functionalities like changing passwor
 
 
 # Dependencies
- ### OpenCV: For image processing and face recognition.
-Tkinter: For the graphical user interface.
-PIL: Python Imaging Library for image manipulation.
-Pandas: For handling data files like CSV.
-NumPy: For mathematical calculations.
-DateTime: For date and time operations.
+ ### OpenCV: 
+ For image processing and face recognition.
+### Tkinter: 
+For the graphical user interface.
+### PIL:
+Python Imaging Library for image manipulation.
+### Pandas: 
+For handling data files like CSV.
+### NumPy:
+For mathematical calculations.
+### DateTime:
+For date and time operations.
+
+# Installation
+(1) Clone the repository:https://github.com/DivyaBinduMenda/Online-Attendance-System.git
+(2) Install the dependencies:pip install opencv-python tkinter pandas numpy pillow
+(3) Run the application:python main.py
+
+# Usage
+### Run the application.
+Use the GUI to perform various tasks like registration, profile saving, and attendance tracking.
+Follow on-screen instructions for each functionality.
+
+# Contributing
+Contributions are welcome! Please feel free to open issues or pull requests for any improvements, bug fixes, or new features.
+
+
+
