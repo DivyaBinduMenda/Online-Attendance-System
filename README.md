@@ -6,6 +6,18 @@ This project is a Face Recognition Based Attendance System developed using Pytho
 # Features
 #### Registration: 
 Allows users to register new individuals by capturing their images and saving their profiles.
-Profile Saving: Stores the captured images and associated details in the system.
-Attendance Tracking: Utilizes the saved profiles to recognize faces and record attendance with date and time stamps.
-Password Protection: Provides password protection for sensitive functionalities like changing passwords and accessing admin features.
+### Profile Saving:
+Stores the captured images and associated details in the system.
+### Attendance Tracking:
+Utilizes the saved profiles to recognize faces and record attendance with date and time stamps.
+### Password Protection:
+Provides password protection for sensitive functionalities like changing passwords and accessing admin features.
+
+
+# Dependencies
+ ### OpenCV: For image processing and face recognition.
+Tkinter: For the graphical user interface.
+PIL: Python Imaging Library for image manipulation.
+Pandas: For handling data files like CSV.
+NumPy: For mathematical calculations.
+DateTime: For date and time operations.
